@@ -1,0 +1,19 @@
+{
+  "name": "taskeasebot",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"><a href=\"\" target=\"_blank\"><img src=\"https://github.com/Charles2205/Tg_Yt_Bot/blob/main/public/images/TEB.png\" width=\"400\" alt=\"TEB\"></a></p>",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "keywords": [],
+  "author": "Charles Ewudzi",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "node-telegram-bot-api": "^0.64.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

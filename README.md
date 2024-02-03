@@ -3,7 +3,7 @@
 <p align="center"><a href="" target="_blank"><img src="https://github.com/Charles2205/Tg_Yt_Bot/blob/main/public/images/TEB.png" width="400" alt="TEB"></a></p>
 
 ## About TaskEaseBot
-Innovsion is a versatile web development company that excels in creating both dynamic and static websites, catering to a wide range of online needs. Their expertise in dynamic website development allows for the creation of interactive and feature-rich sites that can display different content from the same source code. On the other hand, their proficiency in static website development offers clients lightweight, fast-loading, and efficient websites for simpler online presence needs. With a focus on custom solutions, Innovsion ensures that whether a client needs a dynamic website with complex functionalities or a static site for faster, simpler content delivery, their needs are met with the highest standards of quality and innovation.
+ Your digital assistant for streamlined tasks. Simplify your online experience with our all-in-one platform, offering tools like YouTube downloader, QR code maker, and background picture remover. Enhance productivity and save time with TaskEaseBot. Join us and discover effortless technology.
 ## Table of Contents
 
 - [Overview](#overview)
