@@ -7,7 +7,7 @@ bot.on('message', (msg) => {
     const chatId = msg.chat.id;
     const messageText = msg.text;
     if (messageText === '/start') {
-        bot.sendMessage(chatId, `Welcome to the TaskEaseBot ${msg.from.username}`);
+        bot.sendMessage(chatId, `Welcome to the TaskEaseBot ${msg}`);
 
       }
       console.log(msg);
